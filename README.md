@@ -1,4 +1,4 @@
-# ** _Namaste_ 🙏🏻** I'm Sreevarsh Vasista Pamidimukkala.
+# **_Namaste_ 🙏** I'm Sreevarsh Vasista Pamidimukkala.
 ### Welcome to the tech side of a **Fullstack Developer 🔥**
 
 - I'm currently employed by [Koach.Ai](www.koach.ai), where we're building a robust backend and an all ages friendly frontend mobile app to educate and bring focus to one of the most needed skills to get employed: **Soft Skills**

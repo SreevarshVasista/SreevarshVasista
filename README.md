@@ -1,6 +1,7 @@
 <h1 align="center"> <i>Namaste 🙏</i>, I'm Sreevarsh Vasista Pamidimukkala </h1>
 <h3 align="center"> Fullstack Developer, India.</h3>
-<br>
+</br>
+
 I'm currently employed by [Koach.Ai](www.koach.ai), where we're building a robust backend and an all ages friendly frontend mobile app to educate and bring focus to one of the most needed skills to get employed: **Soft Skills**
 ### What am I doing? 
 - After building multiple APIs and designing efficient flows in the backend, I'm currently working on making our mobile app look better {and perform better _specially on low end devices_}

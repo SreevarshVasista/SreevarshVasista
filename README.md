@@ -7,7 +7,7 @@ I'm currently employed by [Koach.Ai](www.koach.ai), where we're building a robus
 - While building multiple APIs and designing efficient flows in the backend, I'm currently working on making our mobile app look better {and perform better _specially on low end devices_}
 - But low end devices shouldn't necessarily mean lower user experience, and that got me into learning CSS animations and GSAP {_livesaver surely_}
 
-### Tech Stack that I use;
+### Tech Stack that I use:
 <div align="center">
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192107856-aa92c8b1-b615-47c3-9141-ed0d29a90239.png" alt="GraphQL" title="GraphQL"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="REST" title="REST"/></code>

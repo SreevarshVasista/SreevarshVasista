@@ -3,10 +3,13 @@
 <h3 align="left"> Reach me at: sreevarshvasista@gmail.com</h3> -->
 <table align="center">
 <tr>
-<td width="50%"">
+<td width="33%"">
 sreevarshvasista@gmail.com
 </td>
-<td width="50%">
+<td width="33%"">
+sreevarshvasista@gmail.com
+</td>
+<td width="33%">
 Fullstack Developer, India.
 </td>
 </tr>

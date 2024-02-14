@@ -1,7 +1,7 @@
 <h1 align="center"> <i>Hello 🤌🏼</i>, I'm Sreevarsh Vasista Pamidimukkala </h1>
 <!-- <h3 align="right"> Fullstack Developer, India.</h3>
 <h3 align="left"> Reach me at: sreevarshvasista@gmail.com</h3> -->
-<table>
+<table align="center">
 <tr>
 <td width="50%"">
 sreevarshvasista@gmail.com

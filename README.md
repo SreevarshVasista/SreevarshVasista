@@ -4,7 +4,7 @@
 <table align="center">
 <tr>
 <td width="50%"">
-sreevarshvasista@gmail.com
+<p><a href="mailto:someone@example.com">Reach me</a></p>
 </td>
 <td width="50%">
 Fullstack Developer, India.

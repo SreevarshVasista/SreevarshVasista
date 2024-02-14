@@ -5,8 +5,8 @@
     sreevarshvasista@gmail.com
     <h3 style="float:right;">
         Fullstack Developer, India.
-    </span>
-</p>
+    </h3>
+</h3>
 </br>
 
 I'm currently employed by [Koach.Ai](www.koach.ai), where we're building a robust backend and an all ages friendly frontend mobile app to educate and bring focus to one of the most needed skills to get employed: **Soft Skills**

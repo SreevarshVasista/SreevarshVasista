@@ -1,6 +1,5 @@
-# **_Namaste_ 🙏**, I'm Sreevarsh Vasista Pamidimukkala.
-<h1 align="center"> Namaste 🙏, I'm Sreevarsh Vasista Pamidimukkala </h1>
-***<p style="text-align: center;">Welcome to the tech side of a **Fullstack Developer 🔥**</p>***
+<h1 align="center"> <i>Namaste 🙏</i>, I'm Sreevarsh Vasista Pamidimukkala </h1>
+<h3 align="center"> Fullstack Developer, India.</h3>
 
 - I'm currently employed by [Koach.Ai](www.koach.ai), where we're building a robust backend and an all ages friendly frontend mobile app to educate and bring focus to one of the most needed skills to get employed: **Soft Skills**
 ### What am I doing? 

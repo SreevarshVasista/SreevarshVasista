@@ -1,4 +1,4 @@
-<h1 align="center"> <i>Namaste 🙏</i>, I'm Sreevarsh Vasista Pamidimukkala </h1>
+<h1 align="center"> <i>నమస్తే 🙏</i>, I'm Sreevarsh Vasista Pamidimukkala </h1>
 <h3 align="center"> Fullstack Developer, India.</h3>
 </br>
 

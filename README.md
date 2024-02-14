@@ -2,9 +2,9 @@
 <!-- <h3 align="right"> Fullstack Developer, India.</h3>
 <h3 align="left"> Reach me at: sreevarshvasista@gmail.com</h3> -->
 <p style="text-align:left;">
-    sreevarshvasista@gmail.com
+    sreevarsh
     <span style="float:right;">
-        Fullstack Developer, India.
+       fullstack
     </span>
 </p>
 </br>

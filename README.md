@@ -8,7 +8,7 @@ I'm currently employed by [Koach.Ai](www.koach.ai), where we're building a robus
 - But low end devices shouldn't necessarily mean lower user experience, and that got me into learning CSS animations and GSAP {_livesaver surely_}
 
 ### Tech Stack that I use;
-(https://camo.githubusercontent.com/a13ca5b988ada41839ebe4f88455e63419a1b56fcb5eda207794cd1649a61d2c/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667)
+[](https://camo.githubusercontent.com/a13ca5b988ada41839ebe4f88455e63419a1b56fcb5eda207794cd1649a61d2c/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667)
 <!--
 **SreevarshVasista/SreevarshVasista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

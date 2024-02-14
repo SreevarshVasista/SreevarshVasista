@@ -6,7 +6,7 @@
 <td align="left" width="50%"">
 <p><a href="mailto:someone@example.com">Reach me here</a></p>
 </td>
-<td width="50%">
+<td align="right" width="50%">
 Fullstack Developer, India.
 </td>
 </tr>

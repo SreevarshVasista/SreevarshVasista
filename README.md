@@ -1,16 +1,6 @@
 <h1 align="center"> <i>Hello 🤌🏼</i>, I'm Sreevarsh Vasista Pamidimukkala </h1>
-<!-- <h3 align="right"> Fullstack Developer, India.</h3>
-<h3 align="left"> Reach me at: sreevarshvasista@gmail.com</h3> -->
-<table align="center">
-<tr>
-<td align="left" width="50%"">
-<p><a href="mailto:someone@example.com">Reach me here</a></p>
-</td>
-<td align="right" width="50%">
-Fullstack Developer, India.
-</td>
-</tr>
-</table>
+<h3 align="right"> Fullstack Developer, India.</h3>
+<h3>📧<a href="mailto:someone@example.com">Reach me here</a></h3>
 </br>
 
 I'm currently employed by [Koach.Ai](www.koach.ai), where we're building a robust backend and an all ages friendly frontend mobile app to educate and bring focus to one of the most needed skills to get employed: **Soft Skills**

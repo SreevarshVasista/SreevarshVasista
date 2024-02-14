@@ -3,8 +3,8 @@
 <h3 align="left"> Reach me at: sreevarshvasista@gmail.com</h3> -->
 <table align="center">
 <tr>
-<td width="50%"">
-<p><a href="mailto:someone@example.com">Reach me</a></p>
+<td align="left" width="50%"">
+<p><a href="mailto:someone@example.com">Reach me here</a></p>
 </td>
 <td width="50%">
 Fullstack Developer, India.

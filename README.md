@@ -8,7 +8,7 @@ I'm currently employed by [Koach.Ai](www.koach.ai), where we're building a robus
 - While building multiple APIs and designing efficient flows in the backend, I'm currently working on making our mobile app look better {and perform better _specially on low end devices_} by working on different subtle animations that happen on screen.
 - But low end devices shouldn't necessarily mean lower user experience, and that got me into learning SVG animations and GSAP {_livesaver surely_} instead of using heavy gifs.
 
-### Tech Stack that I use:
+### Tech Stack I use:
 <div align="center">
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192107856-aa92c8b1-b615-47c3-9141-ed0d29a90239.png" alt="GraphQL" title="GraphQL"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript"/></code>

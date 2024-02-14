@@ -1,7 +1,7 @@
 # Sreevarsh Vasista Pamidimukkala 🧑🏻‍💻
 ### Welcome to the tech side of a **Fullstack Developer 🔥**
 
-- I'm currently employed by [Koach.Ai](www.koach.ai), where we're building a robust backend and a all ages friendly frontend mobile app to educate and bring focus to one of the most needed skills to get employed: **Soft Skills**
+- I'm currently employed by [Koach.Ai](www.koach.ai), where we're building a robust backend and an all ages friendly frontend mobile app to educate and bring focus to one of the most needed skills to get employed: **Soft Skills**
 ### What am I doing? 
 - After building multiple APIs and designing efficient flows in the backend, I'm currently working on making our mobile app look better {and perform better _even on low end devices_}
 - But low end devices shouldn't necessarily mean lower user experience, and that got me into learning CSS animations and GSAP {_livesaver surely_}
